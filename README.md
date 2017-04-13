@@ -7,7 +7,7 @@ Ce dépot contient les sources du minitalk que j'ai réalisé dans le cadre du m
 Purpose
 -------------
 
-> - Le projet consiste à envoyer une suite de caractère ascii via l'utilisation de signaux Unix (SIGUSR), la suite de caractère est convertie en binaire au préalable.
+> - Le projet consiste à envoyer une suite de caractère ascii d'un serveur A à un client B via l'utilisation de signaux Unix (SIGUSR), la suite de caractère est convertie en binaire au préalable.
 
 
 Disclaimer
