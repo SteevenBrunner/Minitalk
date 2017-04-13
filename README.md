@@ -1,7 +1,7 @@
 Minitalk
 ===================
 
-Ce dépot contient les sources du minitalk que j'ai réalisé dans le cadre du module Système Unix de 1ere année à Epitech. Il a été réalisé à Strasbourg en 2014.
+Ce dépot contient les sources du projet Minitalk que j'ai réalisé dans le cadre du module Système Unix de 1ere année à Epitech. Il a été réalisé à Strasbourg en 2014.
 
 Fonctionnalités
 -------------
