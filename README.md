@@ -13,4 +13,4 @@ Fonctionnalités
 Disclaimer
 -------------
 
-Si vous êtes étudiant Ã  Epitech, servez vous des concepts utilisés, pas du code, ou la moulinette de triche vous trouvera et vous mettra un -42.
+Si vous êtes étudiant à Epitech, servez vous des concepts utilisés, pas du code, ou la moulinette de triche vous trouvera et vous mettra un -42.
